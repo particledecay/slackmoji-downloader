@@ -1,7 +1,7 @@
 # slackmoji-downloader
 Automatically download emojis for Slack.
 
-slackmoji-downloader is a [Scrapy](https://scrapyproject.com) project for crawling a website and downloading the emojis from it. This project was born out of a need to obtain all of the emojis from [slackmojis.com](https://slackmojis.com) in order to bulk upload to Slack.
+slackmoji-downloader is a [Scrapy](https://scrapy.org) project for crawling a website and downloading the emojis from it. This project was born out of a need to obtain all of the emojis from [slackmojis.com](https://slackmojis.com) in order to bulk upload to Slack.
 
 ## Installation
 Using Python 3:
